@@ -65,15 +65,20 @@ Willkommen! Hier findest du eine Übersicht über unsere Teams, Verantwortungsbe
 
 ---
 
-## 🔷 Abteilung Infrastruktur
+## 🛠 Abteilung Infrastruktur
 
-- **Verantwortlich für:** Systeminfrastruktur  
-- **Enthält Teams:**  
-  - IoT  
-  - Team-IIoT *(nicht in YAML-Dateien enthalten)*
+Verantwortlich für Systembetrieb, Hosting und Infrastruktur.
+
+### 🔧 Infra-Team
+
+* **Zuständig für:** Betrieb und Wartung der IT-Infrastruktur
+* 🔗 [Sourcecode](https://gitlab.com/ch-mc-b/autoshop-ms/infra)
+* 📦 [Container Registry](https://gitlab.com/ch-mc-b/autoshop-ms/infra/container_registry)
+* 👥 Mitglieder:
+
+  * \[Informationen zu Mitgliedern sind derzeit nicht verfügbar]
 
 ---
 
-
-
 > ℹ️ Hinweis: Diese Übersicht dient der Transparenz und Zusammenarbeit. Bei Fragen zu einem Repository oder Team bitte über Issues oder Discussions Kontakt aufnehmen.
+
